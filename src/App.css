@@ -1,3 +1,7 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
 .App {
   text-align: center;
 }
@@ -26,6 +30,20 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.container {
+  width: 1040px;
+  max-width: 95%;
+  margin: auto;
+}
+
+.intro-section {
+  transition: all 0.8s ease-in-out;
+}
+
+.profile-img {
+  border-radius: 50%;
 }
 
 @keyframes App-logo-spin {
