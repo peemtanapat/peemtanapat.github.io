@@ -24,7 +24,7 @@ const Intro = () => {
                 <img
                   className="profile-img"
                   src={profileImg}
-                  alt="My Profile Image"
+                  alt="My Profile"
                   width="50%"
                 />
               </Col>

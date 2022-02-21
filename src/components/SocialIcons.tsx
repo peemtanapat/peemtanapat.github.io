@@ -9,13 +9,13 @@ import {
 const SocialIcons = () => {
   return (
     <div>
-      <a href="https://github.com/peemtanapat/" target="_blank">
+      <a href="https://github.com/peemtanapat/" target="_blank" rel="noreferrer">
         <FontAwesomeIcon className="social-icon" icon={faGithub} />
       </a>
-      <a href="https://www.linkedin.com/in/peemtanapat/" target="_blank">
+      <a href="https://www.linkedin.com/in/peemtanapat/" target="_blank" rel="noreferrer">
         <FontAwesomeIcon className="social-icon" icon={faLinkedin} />
       </a>
-      <a href="https://www.facebook.com/peemtanapat1997/" target="_blank">
+      <a href="https://www.facebook.com/peemtanapat1997/" target="_blank" rel="noreferrer">
         <FontAwesomeIcon className="social-icon" icon={faFacebook} />
       </a>
     </div>
