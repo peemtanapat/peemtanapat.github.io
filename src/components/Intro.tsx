@@ -25,7 +25,6 @@ const Intro = () => {
                   className="profile-img"
                   src={profileImg}
                   alt="My Profile"
-                  width="50%"
                 />
               </Col>
             </Row>
